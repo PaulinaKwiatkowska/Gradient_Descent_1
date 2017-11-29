@@ -49,7 +49,7 @@ while previous_step_size > precision:
     
 print("Critical thickness: %f [m]" % cur_x)
 
-#Ploting section
+#Plotting section
 args = []
 values = []
 derivatives = []
